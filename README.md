@@ -1,0 +1,2 @@
+# ICT-2113
+My solutions to ICT 2113: DATA STRUCTURES LAB
